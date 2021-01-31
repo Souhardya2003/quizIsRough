@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">quizRough</string>
+    <string name="score">%s</string>
+</resources>
